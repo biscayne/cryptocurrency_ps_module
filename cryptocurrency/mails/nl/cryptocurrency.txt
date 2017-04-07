@@ -1,0 +1,25 @@
+Hallo {firstname} {lastname},
+
+Bedankt voor uw bestelling bij {shop_name}!
+
+Uw bestelling met referentie {order_name} is geplaatst en wordt verzonden zodra we uw betaling ontvangen hebben.
+
+U heeft gekozen voor betaling met cryptocurrency.
+
+Hier zijn de details voor de cryptocurrency transactie:
+
+Valuta naam: {wallet_currency_name}
+
+Bedrag: {total_paid}
+
+Wallet eigenaar: {wallet_owner}
+
+Wallet adres: {wallet_address}
+
+U kunt uw bestellingen inzien op de subpagina  \"Geschiedenis en details van mijn bestellingen\" onder \"Mijn account\" in onze webshop.
+
+Wanneer u een gast account hebt kunt u uw bestelling volgen middels deze link: {guest_tracking_url}
+
+{shop_name} - {shop_url}
+
+{shop_url} powered by Biscayne and PrestaShop™
