@@ -48,8 +48,8 @@ Euro won't show up while paying with the cryptocurrency payment method).
 field will be displayed for every cryptocurrency created in step 3. Put there your wallet address, so it will be
 displayed on the payment process and inside the mail templates.
 
-6.1 Remember to check the checkboxes in the Configure screen if you want to auto-update your bitcoin and dogecoin
-values, and remember their ISO codes must be BTC and DGE respectively.
+6.1 Remember to check the checkboxes in the Configure screen if you want to auto-update your bitcoin and gulden
+values, and remember their ISO codes must be BTC and NLG respectively.
 
 7. (optional) If you are using any other language different from English (code: 'en'), you must translate and copy the files
 "cryptocurrency.txt" and "cryptocurrency.html" into your /mails/{code of your language} folder in order to be
