@@ -7,6 +7,7 @@ Version history:
 *********************************************
 
 February 2014: 1.0.0: Initial release of the module.
+November 2014: Dutch translations added by Perry Peeters
 
 Intro:
 *********************************************
@@ -34,7 +35,7 @@ In order to activate this module to allow the payment with cryptocurrencies you 
 
 3. Add as many cryptocurrencies as you want for your shop. Recommended ISO code for cryptocurrencies: 999.
 Also beware that some symbols for currencies won't display properly on the invoices. If you want to auto-update the 
-value of the currencies (Bitcoin and Dogecoin) you must set their ISO codes as BTC and DGE.
+value of the currencies (Bitcoin and Gulden) you must set their ISO codes as BTC and NLG.
 
 4. Once you have your currencies, go to Modules > Payment.
 
@@ -63,7 +64,7 @@ so they can switch currencies.
 Final notes:
 *********************************************
 
-This module should work for any 1.5.x Prestashop system.
+This module should work for any 1.5.x and 1.6.x Prestashop system.
 This module copies several files in your Prestashop filesystem while the installation process is made, but 
 overwrites none.
 This module also inserts and updates data on your database. However no data or files are destroyed by this module.
@@ -103,3 +104,7 @@ Paypal: victor at vblanch (dot) com
 Bitcoin : 12NZncFaCSv5xE8GCVDFBMaCAoLDDmqhL4
 Litecoin: LYqdGQ9Eu2XCva6kSHWJ3uSTxBivFyfDNM
 Dogecoin: DShCGaE7c9Ur9N29kd7Wfs7xqTCQTKoLAg
+
+For the Dutch translations you might consider a donation in Gulden:
+
+Gulden: GVcuKiuDGddtojwiyLhJC1BFHyuEqZ8nGo
